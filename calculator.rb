@@ -1,3 +1,3 @@
 first_number = 4
 
-swcond_number = 7
+second_number = 7
